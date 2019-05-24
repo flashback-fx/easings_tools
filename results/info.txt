@@ -1,0 +1,9 @@
+These files were generated using the compare_header_results.sh script.
+These files are the output of diff with the -y (show side by side) option.
+The column in the left has the values computed using the original version
+of easings.h and the column in the right contains the values computed using
+the revised easings.h. Lines preceded with the character | in the second
+column are the ones that differ from the first column.
+
+diff_out.txt: Uses default values (b = 0.0, c = 60.0, d = 60.0, td = 1.0)
+diff_out2.txt: Uses values (b = 1234.5, c = 123456.78, d = 50.2, td = 0.653)
