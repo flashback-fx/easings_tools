@@ -1,3 +1,5 @@
+These files were generated using the compare_header_performance.sh script.
+
 Test 1 uses default test values
 Test 2 is like test 1 having compiled the test program with -O1
 Test 3 uses custom test values
