@@ -1,0 +1,4 @@
+Test 1 uses default test values
+Test 2 is like test 1 having compiled the test program with -O1
+Test 3 uses custom test values
+Test 4 is like test 3 having compiled the test program with -O2
