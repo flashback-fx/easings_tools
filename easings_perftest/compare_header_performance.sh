@@ -5,6 +5,7 @@ ORIGHDR="easings_original.h"  #Original header file
 MODFHDR="easings_new.h"  #Modified header file
 T1OUT="test_orig.txt"  #Output file for the results of the test using the original header
 T2OUT="test_newh.txt"  #Output file for the results of the test using the modified header
+TDIFF="test_diff.txt"  #Output file for the diff file
 NDPARAMS=""  #Test program numerical options
 TESTITR=8  #Number of consecutive times the performance testing program is run
 
@@ -25,3 +26,4 @@ do
 	./easings_perftest --out=$T2OUT $NDPARAMS
 	((iter++))
 done
+diff -y -t $T1OUT $T2OUT > $TDIFF

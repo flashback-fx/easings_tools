@@ -1,0 +1,90 @@
+arg_b = 0.000000,                                                  arg_b = 0.000000,
+arg_c = 2000.000000,                                               arg_c = 2000.000000,
+arg_d = 600.000000,                                                arg_d = 600.000000,
+arg_td = 0.500000,                                                 arg_td = 0.500000,
+Doing 1000000 iterations per function                              Doing 1000000 iterations per function
+
+EaseLinearNone:                                                    EaseLinearNone:
+       8635 clocks,   0.008635 clks / iter                      |        11901 clocks,   0.011901 clks / iter
+
+EaseLinearIn:                                                      EaseLinearIn:
+       9639 clocks,   0.009639 clks / iter                      |         9059 clocks,   0.009059 clks / iter
+
+EaseLinearOut:                                                     EaseLinearOut:
+       8876 clocks,   0.008876 clks / iter                      |         8624 clocks,   0.008624 clks / iter
+
+EaseLinearInOut:                                                   EaseLinearInOut:
+       8618 clocks,   0.008618 clks / iter                      |         8599 clocks,   0.008599 clks / iter
+
+EaseSineIn:                                                        EaseSineIn:
+      41421 clocks,   0.041421 clks / iter                      |        40797 clocks,   0.040797 clks / iter
+
+EaseSineOut:                                                       EaseSineOut:
+      40523 clocks,   0.040523 clks / iter                      |        37726 clocks,   0.037726 clks / iter
+
+EaseSineInOut:                                                     EaseSineInOut:
+      41950 clocks,   0.041950 clks / iter                      |        42446 clocks,   0.042446 clks / iter
+
+EaseCircIn:                                                        EaseCircIn:
+      31975 clocks,   0.031975 clks / iter                      |        30259 clocks,   0.030259 clks / iter
+
+EaseCircOut:                                                       EaseCircOut:
+      33076 clocks,   0.033076 clks / iter                      |        31883 clocks,   0.031883 clks / iter
+
+EaseCircInOut:                                                     EaseCircInOut:
+      33593 clocks,   0.033593 clks / iter                      |        32385 clocks,   0.032385 clks / iter
+
+EaseCubicIn:                                                       EaseCubicIn:
+       8598 clocks,   0.008598 clks / iter                      |         8611 clocks,   0.008611 clks / iter
+
+EaseCubicOut:                                                      EaseCubicOut:
+       9289 clocks,   0.009289 clks / iter                      |         8594 clocks,   0.008594 clks / iter
+
+EaseCubicInOut:                                                    EaseCubicInOut:
+       9554 clocks,   0.009554 clks / iter                      |         8759 clocks,   0.008759 clks / iter
+
+EaseQuadIn:                                                        EaseQuadIn:
+       8608 clocks,   0.008608 clks / iter                      |         8599 clocks,   0.008599 clks / iter
+
+EaseQuadOut:                                                       EaseQuadOut:
+       8676 clocks,   0.008676 clks / iter                      |         8684 clocks,   0.008684 clks / iter
+
+EaseQuadInOut:                                                     EaseQuadInOut:
+      10458 clocks,   0.010458 clks / iter                      |         9461 clocks,   0.009461 clks / iter
+
+EaseExpoIn:                                                        EaseExpoIn:
+     131751 clocks,   0.131751 clks / iter                      |        33730 clocks,   0.033730 clks / iter
+
+EaseExpoOut:                                                       EaseExpoOut:
+     182723 clocks,   0.182723 clks / iter                      |        33532 clocks,   0.033532 clks / iter
+
+EaseExpoInOut:                                                     EaseExpoInOut:
+     189018 clocks,   0.189018 clks / iter                      |        36244 clocks,   0.036244 clks / iter
+
+EaseBackIn:                                                        EaseBackIn:
+       8597 clocks,   0.008597 clks / iter                      |         8595 clocks,   0.008595 clks / iter
+
+EaseBackOut:                                                       EaseBackOut:
+       9132 clocks,   0.009132 clks / iter                      |         9351 clocks,   0.009351 clks / iter
+
+EaseBackInOut:                                                     EaseBackInOut:
+      10719 clocks,   0.010719 clks / iter                      |         9199 clocks,   0.009199 clks / iter
+
+EaseBounceOut:                                                     EaseBounceOut:
+      11070 clocks,   0.011070 clks / iter                      |        10683 clocks,   0.010683 clks / iter
+
+EaseBounceIn:                                                      EaseBounceIn:
+       9740 clocks,   0.009740 clks / iter                      |         9724 clocks,   0.009724 clks / iter
+
+EaseBounceInOut:                                                   EaseBounceInOut:
+      16270 clocks,   0.016270 clks / iter                      |        16568 clocks,   0.016568 clks / iter
+
+EaseElasticIn:                                                     EaseElasticIn:
+     190448 clocks,   0.190448 clks / iter                      |        90264 clocks,   0.090264 clks / iter
+
+EaseElasticOut:                                                    EaseElasticOut:
+     252458 clocks,   0.252458 clks / iter                      |        94193 clocks,   0.094193 clks / iter
+
+EaseElasticInOut:                                                  EaseElasticInOut:
+     252834 clocks,   0.252834 clks / iter                      |        99587 clocks,   0.099587 clks / iter
+

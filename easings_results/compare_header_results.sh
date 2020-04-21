@@ -14,4 +14,4 @@ make
 cp -v $MODFHDR easings.h
 make
 ./easings_results --out=$T2OUT $NDPARAMS
-diff -s -y $T1OUT $T2OUT > $DIFFF
+diff -s -y -t $T1OUT $T2OUT > $DIFFF
